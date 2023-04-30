@@ -28,11 +28,11 @@ Plotly.js generates the charts used in your application.
 
 `$ cd avocado_analytics`
 
-`$ python -m venv venv`
+`$ python3 -m venv venv`
 
 `$ source venv/bin/activate`
 
-`(venv) $ python -m pip install dash==2.8.1 pandas==1.5.3`
+`(venv) $ python3 -m pip install dash==2.8.1 pandas==1.5.3`
 
 `python3 app.py`
 
