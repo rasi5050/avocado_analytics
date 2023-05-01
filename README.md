@@ -40,8 +40,8 @@ Plotly.js generates the charts used in your application.
 
 Now you should be able to see the dashboard [here](http://localhost:8050) as below.
 
-<img width="1512" alt="Screenshot 2023-05-01 at 13 53 00" src="https://user-images.githubusercontent.com/12760472/235501074-2bbed22e-2af1-4776-b91f-c446![Uploading Screenshot 2023-05-01 at 13.53.16.png…]()
-1247efaf.png">
+<img width="1512" alt="Screenshot 2023-05-01 at 13 53 00" src="https://user-images.githubusercontent.com/12760472/235501371-702e6072-53a4-4edf-a306-2cb0a8e71811.png">
+
 
 <img width="1511" alt="Screenshot 2023-05-01 at 13 53 16" src="https://user-images.githubusercontent.com/12760472/235501239-f39d2cda-a68e-4923-a974-f56429306e4d.png">
 
