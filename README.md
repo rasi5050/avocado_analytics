@@ -1,5 +1,6 @@
 # Avocado Analytics
 Develop Data Visualization Interfaces in Python With Dash
+
 <img width="1512" alt="Screenshot 2023-05-01 at 13 53 00" src="https://user-images.githubusercontent.com/12760472/235501371-702e6072-53a4-4edf-a306-2cb0a8e71811.png">
 
 This is a hobby project to create pure python web dashboard. Thanks to the powerful open-source framework, the dashboard is equiped with interractive data visualization with minimal efforts.
