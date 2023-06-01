@@ -5,6 +5,9 @@ Develop Data Visualization Interfaces in Python With Dash
 
 This is a hobby project to create pure python web dashboard. Thanks to the powerful open-source framework, the dashboard is equiped with interractive data visualization with minimal efforts.
 
+## Whats used?
+Python + dash framework
+
 ## Functionality
 
 styled dashboards 
