@@ -39,7 +39,10 @@ Plotly.js generates the charts used in your application.
 
 `(venv) $ python3 -m pip install dash==2.8.1 pandas==1.5.3`
 
+`pip install --force-reinstall numpy pandas`
 
+(Not recommended and should only be used for testing: If you want to make this website public in Cloud, in app.py change to "app.run_server(debug=True, host='0.0.0.0', port=8050)")
+(Exposing port like this is security vulnerability)
 
 `python3 app.py`
 
